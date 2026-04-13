@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Flask uploads
+backend/uploads/
+
+# Node
+node_modules/
+.next/
+
+# Env files
+frontend/.env.local
+backend/.env
+
+# OS
+.DS_Store
